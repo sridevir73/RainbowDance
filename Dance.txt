@@ -2,4 +2,5 @@ Step left
 step right
 Jump to right
 step to left
+twirl your hands
 turn around jump to left
